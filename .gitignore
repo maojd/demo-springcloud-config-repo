@@ -1,0 +1,17 @@
+**/target/
+**/.settings
+**/.idea
+**/.classpath
+**/.project
+**/logs
+**/disconf
+**/.idea
+
+*.iml
+**/.apt_generated/
+**/.factorypath
+*.log
+**/micloud.properties
+**/~
+.DS_Store
+*.DS_Store
