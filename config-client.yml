@@ -1,4 +1,5 @@
 info:
   profile: default
-test: "这个是config-client.yml的文件内容的test标签"
+test:
   name: "test。name标签"
+  timeout: "这个是config-client.yml的文件内容的test标签"
