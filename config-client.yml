@@ -1,6 +1,6 @@
 info:
   profile: default
-#  name: "this is my info.name 哈哈。"
+  name: "this is my info.name 哈哈。2222222"
 test:
   name: "test。name标签"
   timeout: "这个是config-client.yml的文件内容的test标签"
